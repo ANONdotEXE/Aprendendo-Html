@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://images4.alphacoders.com/115/thumb-1920-1153325.jpg)
+}
+
+#image1 {
+    position: absolute;
+    left: 80px;
+    top: 2px;
+    width: 340;
+    height: 340;
+}
+
+#image2 {
+    position: absolute;
+    left: 420px;
+    top: 2px;
+    width: 340;
+    height: 340;
+}
+
+#image3 {
+    position: absolute;
+    left: 760px;
+    top: 2px;
+    width: 340;
+    height: 340;
+}
+
+#image4 {
+    position: absolute;
+    left: 420px;
+    top: 342px;
+    width: 340;
+    height: 340;
+}
+
+#image5 {
+    position: absolute;
+    left: 80px;
+    top: 682px;
+    width: 340;
+    height: 340;
+}
+
+#image6 {
+    position: absolute;
+    left: 760px;
+    top: 682px;
+    width: 340;
+    height: 340;
+}
